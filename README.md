@@ -1,3 +1,7 @@
+# Feature modules
+
+As your app grows, you can organize code relevant for a specific feature. This helps apply clear boundaries for features. With feature modules, you can keep code related to a specific functionality or feature separate from other code. Delineating areas of your app helps with collaboration between developers and teams, separating directives, and managing the size of the root module
+
 # NgFeatureModule
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
